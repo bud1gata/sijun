@@ -3,5 +3,7 @@ sistem informasi pencatatan Jurnal SMK
 
 ## Dependencies:
 * Express JS
-* Nodemon
+* Node
 * MonggoDB
+* React
+
